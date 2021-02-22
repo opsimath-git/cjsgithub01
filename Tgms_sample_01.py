@@ -1,6 +1,3 @@
-### github test file
-### Modify..................
-###세번째 수정
 import cx_Oracle
 
 import os
